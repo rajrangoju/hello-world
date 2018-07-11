@@ -89,7 +89,7 @@ void printArray(int A[], int size)
 /* Driver program to test above functions */
 int main()
 {
-	int arr[] = {12, 11, 13, 5, 6, 7};
+	int arr[] = {120, 110, 130, 50, 60, 70};
 	int arr_size = sizeof(arr)/sizeof(arr[0]);
 
 	printf("Given array is \n");
