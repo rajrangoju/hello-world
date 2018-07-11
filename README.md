@@ -3,4 +3,4 @@ Just another repo
 
 Hi People!
 
-Raj here, this is my first github project..
+This is my first github project..
